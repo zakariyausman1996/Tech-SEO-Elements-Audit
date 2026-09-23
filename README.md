@@ -25,7 +25,10 @@ Daily snapshots of homepage SEO elements for Studocu and its main competitors, u
 
 **`snapshots/` + `changelog/`** — automated daily fetch via `curl` (scripts/extract_seo.py), run by the "Daily competitor SEO element watch" cloud routine, cron 7:15 UTC daily. Works even if your laptop is off. Several domains (studocu.com, chegg.com, quizlet.com, brainly.com) run bot/WAF protection that blocks plain `curl` on any given day, returning a captcha/block page instead of the real homepage — expected, not a bug.
 
-**`browser-snapshots/` + `browser-changelog/`** — manual, on-demand fetch using a real browser, run by asking Claude to check the competitor pages. Gets past the bot protection that blocks curl — all 6 domains return real content this way. Not scheduled; only updates when requested.
+**`browser-snapshots/` + `browser-changelog/`** — on-demand fetch via `scripts/extract_seo_local.py` (Playwright driving the real installed Chrome, headed mode), run locally when asked. Gets past the bot protection that blocks curl — all 6 domains return real content this way. Not scheduled; only updates when requested. Run it with:
+```bash
+python3 scripts/extract_seo_local.py https://www.chegg.com/
+```
 
 Diff `snapshots/` days against each other, and `browser-snapshots/` days against each other — never compare across the two, since curl and a real browser can legitimately see different content even with nothing actually wrong.
 
