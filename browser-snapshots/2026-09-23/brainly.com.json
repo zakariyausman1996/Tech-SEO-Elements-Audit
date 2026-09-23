@@ -2,18 +2,51 @@
   "url": "https://brainly.com/",
   "title": "Brainly - Your AI Learning Companion | Get Homework Help, AI Tutor & Test Prep",
   "htmlLang": "en",
-  "metaDescription": "Brainly is your AI Learning Companion that empowers students to thrive academically. Brainly creates responsive learning environment for students, parents, and teachers.",
+  "metaDescription": "Brainly is your AI Learning Companion that empowers students to thrive academically. Brainly creates responsive learning environment for students, parents, and teachers. Explore a world of questions and answers, test prep, and instant support from our AI Tutor, helping you learn smarter and do homework collaboratively for better grades.",
   "metaRobots": "index, follow",
   "canonical": "https://brainly.com",
   "relNext": null,
   "relPrev": null,
   "hreflang": [],
-  "h1": ["MEET THE LAST TUTOR YOU'LL EVER NEED"],
-  "h2": ["Brainly's 3 Commitments", "Real Parents, Real Results", "A New Type of Education That Actually Works", "But Great Tutors Go Beyond Explanations", "1 Month of Brainly costs less than 1 Hour of a Private Tutor", "Secure by Design", "Frequently Asked Questions"],
-  "h3": ["Your Privacy", "Guaranteed Results", "Safety First", "100% Money-Back Guarantee", "Built for Students", "Strong Privacy Protection", "Age-Appropriate Guidance", "Ethically Designed", "Company"],
-  "h4": [], "h5": [], "h6": [],
-  "ogTags": {"og:title": "Brainly - Your AI Learning Companion | Get Homework Help, AI Tutor & Test Prep", "og:url": "https://brainly.com", "og:image": "https://brainly.com/nx-images/favicon/x200.png"},
-  "twitterTags": {"twitter:card": "summary_large_image", "twitter:title": "Brainly - Your AI Learning Companion | Get Homework Help, AI Tutor & Test Prep", "twitter:image": "https://brainly.com/nx-images/favicon/x200.png"},
+  "h1": [
+    "MEET THE LAST TUTOR\nYOU'LL EVER NEED"
+  ],
+  "h2": [
+    "Brainly's 3 Commitments",
+    "Real Parents, Real Results",
+    "A New Type of Education That Actually Works",
+    "But Great Tutors\nGo Beyond Explanations",
+    "1 Month of Brainly costs less than\n1 Hour of a Private Tutor",
+    "Secure by Design",
+    "Frequently Asked Questions"
+  ],
+  "h3": [
+    "Your Privacy",
+    "Guaranteed Results",
+    "Safety First",
+    "100% Money-Back Guarantee",
+    "AND THAT'S WHEN THE A'S START SHOWING UP",
+    "Built for Students",
+    "Strong Privacy Protection",
+    "Age-Appropriate Guidance",
+    "Ethically Designed",
+    "Company"
+  ],
+  "h4": [],
+  "h5": [],
+  "h6": [],
+  "ogTags": {
+    "og:title": "Brainly - Your AI Learning Companion | Get Homework Help, AI Tutor & Test Prep",
+    "og:description": "Brainly is your AI Learning Companion that empowers students to thrive academically. Brainly creates responsive learning environment for students, parents, and teachers. Explore a world of questions and answers, test prep, and instant support from our AI Tutor, helping you learn smarter and do homework collaboratively for better grades.",
+    "og:url": "https://brainly.com",
+    "og:image": "https://brainly.com/nx-images/favicon/x200.png"
+  },
+  "twitterTags": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Brainly - Your AI Learning Companion | Get Homework Help, AI Tutor & Test Prep",
+    "twitter:description": "Brainly is your AI Learning Companion that empowers students to thrive academically. Brainly creates responsive learning environment for students, parents, and teachers. Explore a world of questions and answers, test prep, and instant support from our AI Tutor, helping you learn smarter and do homework collaboratively for better grades.",
+    "twitter:image": "https://brainly.com/nx-images/favicon/x200.png"
+  },
   "schemaTypes": [],
   "mixedContent": false
 }

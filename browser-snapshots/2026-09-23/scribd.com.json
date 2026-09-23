@@ -1,8 +1,8 @@
 {
   "url": "https://www.scribd.com/",
-  "title": "Scribd: Home to the world's documents.",
+  "title": "Scribd: Home to the world\u2019s documents.",
   "htmlLang": "en-US",
-  "metaDescription": "Get to the source. Specialized knowledge on any topic, and answers you won't find anywhere else. Home to the world's documents, 300M+ and counting.",
+  "metaDescription": "Get to the source. Specialized knowledge on any topic, and answers you won\u2019t find anywhere else. Home to the world\u2019s documents, 300M+ and counting.",
   "metaRobots": "not present (defaults to index, follow)",
   "canonical": "https://www.scribd.com",
   "relNext": null,
@@ -53,6 +53,7 @@
     "Real knowledge, uploaded by real people."
   ],
   "h2": [
+    "Control your privacy preferences",
     "Explore, learn, apply.",
     "Start your free trial today.",
     "Share the wealth [of knowledge].",
@@ -61,28 +62,40 @@
     "What is Scribd?",
     "Do I need a subscription to access Scribd?",
     "What are the benefits of paying for a Scribd subscription?",
-    "Can I upload and share documents on Scribd?",
-    "How does Scribd handle copyright infringement?"
+    "Can I upload and share documents on Scribd?"
   ],
   "h3": [
     "Ad-supported access",
     "Your free trial",
-    "Also included with trial"
+    "Also included with trial",
+    "What is Scribd?",
+    "Do I need a subscription to access Scribd?",
+    "What are the benefits of paying for a Scribd subscription?",
+    "Can I upload and share documents on Scribd?",
+    "How does Scribd handle copyright infringement?",
+    "How can I report copyright infringement to Scribd?",
+    "How do I cancel my subscription?"
   ],
   "h4": [],
   "h5": [],
   "h6": [],
   "ogTags": {
-    "og:title": "Scribd: Home to the world's documents.",
-    "og:description": "Get to the source. Specialized knowledge on any topic, and answers you won't find anywhere else. Home to the world's documents, 300M+ and counting.",
+    "og:title": "Scribd: Home to the world\u2019s documents.",
+    "og:description": "Get to the source. Specialized knowledge on any topic, and answers you won\u2019t find anywhere else. Home to the world\u2019s documents, 300M+ and counting.",
     "og:site_name": "Scribd",
-    "og:image": "https://assets.production.scribd.com/mfe-scribd-landing-pages/_next/static/media/scribd_og.0p_8r5h84smix.png"
+    "og:image": "https://assets.production.scribd.com/mfe-scribd-landing-pages/_next/static/media/scribd_og.0p_8r5h84smix.png",
+    "og:image:width": "1200",
+    "og:image:height": "600",
+    "og:image:alt": "Scribd logo"
   },
   "twitterTags": {
     "twitter:card": "summary_large_image",
-    "twitter:title": "Scribd: Home to the world's documents.",
-    "twitter:description": "Get to the source. Specialized knowledge on any topic, and answers you won't find anywhere else. Home to the world's documents, 300M+ and counting.",
-    "twitter:image": "https://assets.production.scribd.com/mfe-scribd-landing-pages/_next/static/media/scribd_og.0p_8r5h84smix.png"
+    "twitter:title": "Scribd: Home to the world\u2019s documents.",
+    "twitter:description": "Get to the source. Specialized knowledge on any topic, and answers you won\u2019t find anywhere else. Home to the world\u2019s documents, 300M+ and counting.",
+    "twitter:image": "https://assets.production.scribd.com/mfe-scribd-landing-pages/_next/static/media/scribd_og.0p_8r5h84smix.png",
+    "twitter:image:alt": "Scribd logo",
+    "twitter:image:width": "1200",
+    "twitter:image:height": "600"
   },
   "schemaTypes": [
     "WebSite",
