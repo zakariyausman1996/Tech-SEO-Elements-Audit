@@ -3,70 +3,243 @@
   "title": "Flashcards, learning tools, and textbook solutions | Quizlet",
   "htmlLang": "en-gb",
   "metaDescription": "Quizlet makes AI-powered learning tools that let you study anything. Start learning today with our online flashcards, games, and expert-written solutions.",
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": "https://quizlet.com",
   "relNext": null,
   "relPrev": null,
   "hreflang": [
-    {"hreflang": "en-us", "href": "https://quizlet.com"},
-    {"hreflang": "en-ae", "href": "https://quizlet.com/ae"},
-    {"hreflang": "es-ar", "href": "https://quizlet.com/ar"},
-    {"hreflang": "en-au", "href": "https://quizlet.com/au"},
-    {"hreflang": "nl-be", "href": "https://quizlet.com/be"},
-    {"hreflang": "pt-br", "href": "https://quizlet.com/br"},
-    {"hreflang": "en-ca", "href": "https://quizlet.com/ca"},
-    {"hreflang": "de-ch", "href": "https://quizlet.com/ch"},
-    {"hreflang": "es-cl", "href": "https://quizlet.com/cl"},
-    {"hreflang": "zh-cn", "href": "https://quizlet.com/cn"},
-    {"hreflang": "es-co", "href": "https://quizlet.com/co"},
-    {"hreflang": "en-cz", "href": "https://quizlet.com/cz"},
-    {"hreflang": "de-de", "href": "https://quizlet.com/de"},
-    {"hreflang": "en-dk", "href": "https://quizlet.com/dk"},
-    {"hreflang": "es-ec", "href": "https://quizlet.com/ec"},
-    {"hreflang": "en-eg", "href": "https://quizlet.com/eg"},
-    {"hreflang": "es-es", "href": "https://quizlet.com/es"},
-    {"hreflang": "en-fi", "href": "https://quizlet.com/fi"},
-    {"hreflang": "fr-fr", "href": "https://quizlet.com/fr"},
-    {"hreflang": "en-gb", "href": "https://quizlet.com/gb"},
-    {"hreflang": "en-gr", "href": "https://quizlet.com/gr"},
-    {"hreflang": "en-hu", "href": "https://quizlet.com/hu"},
-    {"hreflang": "id-id", "href": "https://quizlet.com/id"},
-    {"hreflang": "en-ie", "href": "https://quizlet.com/ie"},
-    {"hreflang": "en-il", "href": "https://quizlet.com/il"},
-    {"hreflang": "en-in", "href": "https://quizlet.com/in"},
-    {"hreflang": "en-is", "href": "https://quizlet.com/is"},
-    {"hreflang": "it-it", "href": "https://quizlet.com/it"},
-    {"hreflang": "ja-jp", "href": "https://quizlet.com/jp"},
-    {"hreflang": "ko-kr", "href": "https://quizlet.com/kr"},
-    {"hreflang": "ru-kz", "href": "https://quizlet.com/kz"},
-    {"hreflang": "es-mx", "href": "https://quizlet.com/mx"},
-    {"hreflang": "en-my", "href": "https://quizlet.com/my"},
-    {"hreflang": "nl-nl", "href": "https://quizlet.com/nl"},
-    {"hreflang": "en-no", "href": "https://quizlet.com/no"},
-    {"hreflang": "en-nz", "href": "https://quizlet.com/nz"},
-    {"hreflang": "en-ph", "href": "https://quizlet.com/ph"},
-    {"hreflang": "pl-pl", "href": "https://quizlet.com/pl"},
-    {"hreflang": "es-pr", "href": "https://quizlet.com/pr"},
-    {"hreflang": "pt-pt", "href": "https://quizlet.com/pt"},
-    {"hreflang": "ru-ru", "href": "https://quizlet.com/ru"},
-    {"hreflang": "en-sa", "href": "https://quizlet.com/sa"},
-    {"hreflang": "en-se", "href": "https://quizlet.com/se"},
-    {"hreflang": "en-sg", "href": "https://quizlet.com/sg"},
-    {"hreflang": "en-th", "href": "https://quizlet.com/th"},
-    {"hreflang": "tr-tr", "href": "https://quizlet.com/tr"},
-    {"hreflang": "zh-tw", "href": "https://quizlet.com/tw"},
-    {"hreflang": "uk-ua", "href": "https://quizlet.com/ua"},
-    {"hreflang": "vi-vn", "href": "https://quizlet.com/vn"},
-    {"hreflang": "en-za", "href": "https://quizlet.com/za"}
+    {
+      "hreflang": "en-us",
+      "href": "https://quizlet.com"
+    },
+    {
+      "hreflang": "en-ae",
+      "href": "https://quizlet.com/ae"
+    },
+    {
+      "hreflang": "es-ar",
+      "href": "https://quizlet.com/ar"
+    },
+    {
+      "hreflang": "en-au",
+      "href": "https://quizlet.com/au"
+    },
+    {
+      "hreflang": "nl-be",
+      "href": "https://quizlet.com/be"
+    },
+    {
+      "hreflang": "pt-br",
+      "href": "https://quizlet.com/br"
+    },
+    {
+      "hreflang": "en-ca",
+      "href": "https://quizlet.com/ca"
+    },
+    {
+      "hreflang": "de-ch",
+      "href": "https://quizlet.com/ch"
+    },
+    {
+      "hreflang": "es-cl",
+      "href": "https://quizlet.com/cl"
+    },
+    {
+      "hreflang": "zh-cn",
+      "href": "https://quizlet.com/cn"
+    },
+    {
+      "hreflang": "es-co",
+      "href": "https://quizlet.com/co"
+    },
+    {
+      "hreflang": "en-cz",
+      "href": "https://quizlet.com/cz"
+    },
+    {
+      "hreflang": "de-de",
+      "href": "https://quizlet.com/de"
+    },
+    {
+      "hreflang": "en-dk",
+      "href": "https://quizlet.com/dk"
+    },
+    {
+      "hreflang": "es-ec",
+      "href": "https://quizlet.com/ec"
+    },
+    {
+      "hreflang": "en-eg",
+      "href": "https://quizlet.com/eg"
+    },
+    {
+      "hreflang": "es-es",
+      "href": "https://quizlet.com/es"
+    },
+    {
+      "hreflang": "en-fi",
+      "href": "https://quizlet.com/fi"
+    },
+    {
+      "hreflang": "fr-fr",
+      "href": "https://quizlet.com/fr"
+    },
+    {
+      "hreflang": "en-gb",
+      "href": "https://quizlet.com/gb"
+    },
+    {
+      "hreflang": "en-gr",
+      "href": "https://quizlet.com/gr"
+    },
+    {
+      "hreflang": "en-hu",
+      "href": "https://quizlet.com/hu"
+    },
+    {
+      "hreflang": "id-id",
+      "href": "https://quizlet.com/id"
+    },
+    {
+      "hreflang": "en-ie",
+      "href": "https://quizlet.com/ie"
+    },
+    {
+      "hreflang": "en-il",
+      "href": "https://quizlet.com/il"
+    },
+    {
+      "hreflang": "en-in",
+      "href": "https://quizlet.com/in"
+    },
+    {
+      "hreflang": "en-is",
+      "href": "https://quizlet.com/is"
+    },
+    {
+      "hreflang": "it-it",
+      "href": "https://quizlet.com/it"
+    },
+    {
+      "hreflang": "ja-jp",
+      "href": "https://quizlet.com/jp"
+    },
+    {
+      "hreflang": "ko-kr",
+      "href": "https://quizlet.com/kr"
+    },
+    {
+      "hreflang": "ru-kz",
+      "href": "https://quizlet.com/kz"
+    },
+    {
+      "hreflang": "es-mx",
+      "href": "https://quizlet.com/mx"
+    },
+    {
+      "hreflang": "en-my",
+      "href": "https://quizlet.com/my"
+    },
+    {
+      "hreflang": "nl-nl",
+      "href": "https://quizlet.com/nl"
+    },
+    {
+      "hreflang": "en-no",
+      "href": "https://quizlet.com/no"
+    },
+    {
+      "hreflang": "en-nz",
+      "href": "https://quizlet.com/nz"
+    },
+    {
+      "hreflang": "en-ph",
+      "href": "https://quizlet.com/ph"
+    },
+    {
+      "hreflang": "pl-pl",
+      "href": "https://quizlet.com/pl"
+    },
+    {
+      "hreflang": "es-pr",
+      "href": "https://quizlet.com/pr"
+    },
+    {
+      "hreflang": "pt-pt",
+      "href": "https://quizlet.com/pt"
+    },
+    {
+      "hreflang": "ru-ru",
+      "href": "https://quizlet.com/ru"
+    },
+    {
+      "hreflang": "en-sa",
+      "href": "https://quizlet.com/sa"
+    },
+    {
+      "hreflang": "en-se",
+      "href": "https://quizlet.com/se"
+    },
+    {
+      "hreflang": "en-sg",
+      "href": "https://quizlet.com/sg"
+    },
+    {
+      "hreflang": "en-th",
+      "href": "https://quizlet.com/th"
+    },
+    {
+      "hreflang": "tr-tr",
+      "href": "https://quizlet.com/tr"
+    },
+    {
+      "hreflang": "zh-tw",
+      "href": "https://quizlet.com/tw"
+    },
+    {
+      "hreflang": "uk-ua",
+      "href": "https://quizlet.com/ua"
+    },
+    {
+      "hreflang": "vi-vn",
+      "href": "https://quizlet.com/vn"
+    },
+    {
+      "hreflang": "en-za",
+      "href": "https://quizlet.com/za"
+    }
   ],
-  "h1": ["How do you want to study?"],
-  "h2": ["Every class, every test, one ultimate study app", "Make studying class material quick and easy", "Prepare for tests on any subject", "Empower your students"],
+  "h1": [
+    "How do you want to study?"
+  ],
+  "h2": [
+    "Every class, every test, one ultimate study app",
+    "Make studying class material quick and easy",
+    "Prepare for tests on any subject",
+    "Empower your students"
+  ],
   "h3": [],
-  "h4": ["TEACHERS"],
-  "h5": ["About us", "For Students", "For teachers", "Resources", "Language", "Get the app", "Country"],
-  "h6": ["Popular flashcard sets"],
-  "ogTags": {"og:site_name": "Quizlet"},
+  "h4": [
+    "TEACHERS"
+  ],
+  "h5": [
+    "About us",
+    "For Students",
+    "For teachers",
+    "Resources",
+    "Language",
+    "Get the app",
+    "Country"
+  ],
+  "h6": [
+    "Popular flashcard sets"
+  ],
+  "ogTags": {
+    "og:site_name": "Quizlet"
+  },
   "twitterTags": {},
-  "schemaTypes": ["WebSite"],
+  "schemaTypes": [
+    "WebSite"
+  ],
   "mixedContent": false
 }

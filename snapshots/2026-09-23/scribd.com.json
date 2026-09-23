@@ -2,7 +2,7 @@
   "title": "Scribd: Home to the world\u2019s documents.",
   "htmlLang": "en-US",
   "metaDescription": "Get to the source. Specialized knowledge on any topic, and answers you won\u2019t find anywhere else. Home to the world\u2019s documents, 300M+ and counting.",
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": "https://www.scribd.com",
   "relNext": null,
   "relPrev": null,

@@ -140,7 +140,7 @@ def main():
         "title": parser.title,
         "htmlLang": parser.html_lang,
         "metaDescription": parser.meta_description,
-        "metaRobots": parser.meta_robots,
+        "metaRobots": parser.meta_robots or "not present (defaults to index, follow)",
         "canonical": parser.canonical,
         "relNext": parser.rel_next,
         "relPrev": parser.rel_prev,

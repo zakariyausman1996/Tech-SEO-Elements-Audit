@@ -2,7 +2,7 @@
   "title": "Course Hero | Own the study hour",
   "htmlLang": "en",
   "metaDescription": "Instant access to millions of Study Resources, Course Notes, Test Prep, 24/7 Homework Help, Tutors, and more. Learn, teach, and study with Course Hero. Get unstuck.",
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": "https://www.coursehero.com",
   "relNext": null,
   "relPrev": null,

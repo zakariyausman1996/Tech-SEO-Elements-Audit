@@ -2,7 +2,7 @@
   "title": "Access to this page has been denied",
   "htmlLang": "en",
   "metaDescription": "px-captcha",
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": null,
   "relNext": null,
   "relPrev": null,

@@ -2,7 +2,7 @@
   "title": "Captcha Challenge\u2026",
   "htmlLang": "en",
   "metaDescription": null,
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": null,
   "relNext": null,
   "relPrev": null,

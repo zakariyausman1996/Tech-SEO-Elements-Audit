@@ -1,73 +1,265 @@
 {
   "url": "https://www.studocu.com/",
-  "title": "Studocu Global — Study Notes for Students Worldwide",
+  "title": "Studocu Global \u2014 Study Notes for Students Worldwide",
   "htmlLang": "en-us",
   "metaDescription": "Studocu provides access to millions of study materials shared by university and high school students from over 60 countries. Join the community today!",
-  "metaRobots": null,
+  "metaRobots": "not present (defaults to index, follow)",
   "canonical": "https://www.studocu.com",
   "relNext": null,
   "relPrev": null,
   "hreflang": [
-    {"hreflang": "bg-bg", "href": "https://www.studocu.com/bg"},
-    {"hreflang": "es-bo", "href": "https://www.studocu.com/bo"},
-    {"hreflang": "ca-es", "href": "https://www.studocu.com/ca-es"},
-    {"hreflang": "es-cl", "href": "https://www.studocu.com/cl"},
-    {"hreflang": "es-co", "href": "https://www.studocu.com/co"},
-    {"hreflang": "cs-cz", "href": "https://www.studocu.com/cs"},
-    {"hreflang": "da-dk", "href": "https://www.studocu.com/da"},
-    {"hreflang": "de-de", "href": "https://www.studocu.com/de"},
-    {"hreflang": "de-at", "href": "https://www.studocu.com/de-at"},
-    {"hreflang": "de-ch", "href": "https://www.studocu.com/de-ch"},
-    {"hreflang": "es-ec", "href": "https://www.studocu.com/ec"},
-    {"hreflang": "en-au", "href": "https://www.studocu.com/en-au"},
-    {"hreflang": "en-ca", "href": "https://www.studocu.com/en-ca"},
-    {"hreflang": "en-gb", "href": "https://www.studocu.com/en-gb"},
-    {"hreflang": "en-ie", "href": "https://www.studocu.com/en-ie"},
-    {"hreflang": "en-nz", "href": "https://www.studocu.com/en-nz"},
-    {"hreflang": "en-us", "href": "https://www.studocu.com/en-us"},
-    {"hreflang": "en-za", "href": "https://www.studocu.com/en-za"},
-    {"hreflang": "es-es", "href": "https://www.studocu.com/es"},
-    {"hreflang": "es-ar", "href": "https://www.studocu.com/es-ar"},
-    {"hreflang": "es-mx", "href": "https://www.studocu.com/es-mx"},
-    {"hreflang": "fi-fi", "href": "https://www.studocu.com/fi"},
-    {"hreflang": "fr-fr", "href": "https://www.studocu.com/fr"},
-    {"hreflang": "fr-be", "href": "https://www.studocu.com/fr-be"},
-    {"hreflang": "fr-ca", "href": "https://www.studocu.com/fr-ca"},
-    {"hreflang": "fr-ch", "href": "https://www.studocu.com/fr-ch"},
-    {"hreflang": "el-gr", "href": "https://www.studocu.com/gr"},
-    {"hreflang": "es-gt", "href": "https://www.studocu.com/gt"},
-    {"hreflang": "en-hk", "href": "https://www.studocu.com/hk"},
-    {"hreflang": "hu-hu", "href": "https://www.studocu.com/hu"},
-    {"hreflang": "id-id", "href": "https://www.studocu.id/id"},
-    {"hreflang": "he-il", "href": "https://www.studocu.com/il"},
-    {"hreflang": "en-in", "href": "https://www.studocu.com/in"},
-    {"hreflang": "it-it", "href": "https://www.studocu.com/it"},
-    {"hreflang": "ja-jp", "href": "https://www.studocu.com/ja"},
-    {"hreflang": "ko-kr", "href": "https://www.studocu.com/ko"},
-    {"hreflang": "ms-my", "href": "https://www.studocu.com/my"},
-    {"hreflang": "nl-nl", "href": "https://www.studeersnel.nl/nl"},
-    {"hreflang": "nl-be", "href": "https://www.studocu.com/nl-be"},
-    {"hreflang": "no-no", "href": "https://www.studocu.com/no"},
-    {"hreflang": "es-pe", "href": "https://www.studocu.com/pe"},
-    {"hreflang": "en-ph", "href": "https://www.studocu.com/ph"},
-    {"hreflang": "pl-pl", "href": "https://www.studocu.com/pl"},
-    {"hreflang": "pt-pt", "href": "https://www.studocu.com/pt"},
-    {"hreflang": "pt-br", "href": "https://www.studocu.com/pt-br"},
-    {"hreflang": "ro-ro", "href": "https://www.studocu.com/ro"},
-    {"hreflang": "ru-ru", "href": "https://www.studocu.com/ru"},
-    {"hreflang": "en-sg", "href": "https://www.studocu.com/sg"},
-    {"hreflang": "sv-se", "href": "https://www.studocu.com/sv"},
-    {"hreflang": "en-tw", "href": "https://www.studocu.com/tw"},
-    {"hreflang": "uk-ua", "href": "https://www.studocu.com/uk"},
-    {"hreflang": "en-vn", "href": "https://www.studocu.vn/vn"},
-    {"hreflang": "x-default", "href": "https://www.studocu.com"}
+    {
+      "hreflang": "bg-bg",
+      "href": "https://www.studocu.com/bg"
+    },
+    {
+      "hreflang": "es-bo",
+      "href": "https://www.studocu.com/bo"
+    },
+    {
+      "hreflang": "ca-es",
+      "href": "https://www.studocu.com/ca-es"
+    },
+    {
+      "hreflang": "es-cl",
+      "href": "https://www.studocu.com/cl"
+    },
+    {
+      "hreflang": "es-co",
+      "href": "https://www.studocu.com/co"
+    },
+    {
+      "hreflang": "cs-cz",
+      "href": "https://www.studocu.com/cs"
+    },
+    {
+      "hreflang": "da-dk",
+      "href": "https://www.studocu.com/da"
+    },
+    {
+      "hreflang": "de-de",
+      "href": "https://www.studocu.com/de"
+    },
+    {
+      "hreflang": "de-at",
+      "href": "https://www.studocu.com/de-at"
+    },
+    {
+      "hreflang": "de-ch",
+      "href": "https://www.studocu.com/de-ch"
+    },
+    {
+      "hreflang": "es-ec",
+      "href": "https://www.studocu.com/ec"
+    },
+    {
+      "hreflang": "en-au",
+      "href": "https://www.studocu.com/en-au"
+    },
+    {
+      "hreflang": "en-ca",
+      "href": "https://www.studocu.com/en-ca"
+    },
+    {
+      "hreflang": "en-gb",
+      "href": "https://www.studocu.com/en-gb"
+    },
+    {
+      "hreflang": "en-ie",
+      "href": "https://www.studocu.com/en-ie"
+    },
+    {
+      "hreflang": "en-nz",
+      "href": "https://www.studocu.com/en-nz"
+    },
+    {
+      "hreflang": "en-us",
+      "href": "https://www.studocu.com/en-us"
+    },
+    {
+      "hreflang": "en-za",
+      "href": "https://www.studocu.com/en-za"
+    },
+    {
+      "hreflang": "es-es",
+      "href": "https://www.studocu.com/es"
+    },
+    {
+      "hreflang": "es-ar",
+      "href": "https://www.studocu.com/es-ar"
+    },
+    {
+      "hreflang": "es-mx",
+      "href": "https://www.studocu.com/es-mx"
+    },
+    {
+      "hreflang": "fi-fi",
+      "href": "https://www.studocu.com/fi"
+    },
+    {
+      "hreflang": "fr-fr",
+      "href": "https://www.studocu.com/fr"
+    },
+    {
+      "hreflang": "fr-be",
+      "href": "https://www.studocu.com/fr-be"
+    },
+    {
+      "hreflang": "fr-ca",
+      "href": "https://www.studocu.com/fr-ca"
+    },
+    {
+      "hreflang": "fr-ch",
+      "href": "https://www.studocu.com/fr-ch"
+    },
+    {
+      "hreflang": "el-gr",
+      "href": "https://www.studocu.com/gr"
+    },
+    {
+      "hreflang": "es-gt",
+      "href": "https://www.studocu.com/gt"
+    },
+    {
+      "hreflang": "en-hk",
+      "href": "https://www.studocu.com/hk"
+    },
+    {
+      "hreflang": "hu-hu",
+      "href": "https://www.studocu.com/hu"
+    },
+    {
+      "hreflang": "id-id",
+      "href": "https://www.studocu.id/id"
+    },
+    {
+      "hreflang": "he-il",
+      "href": "https://www.studocu.com/il"
+    },
+    {
+      "hreflang": "en-in",
+      "href": "https://www.studocu.com/in"
+    },
+    {
+      "hreflang": "it-it",
+      "href": "https://www.studocu.com/it"
+    },
+    {
+      "hreflang": "ja-jp",
+      "href": "https://www.studocu.com/ja"
+    },
+    {
+      "hreflang": "ko-kr",
+      "href": "https://www.studocu.com/ko"
+    },
+    {
+      "hreflang": "ms-my",
+      "href": "https://www.studocu.com/my"
+    },
+    {
+      "hreflang": "nl-nl",
+      "href": "https://www.studeersnel.nl/nl"
+    },
+    {
+      "hreflang": "nl-be",
+      "href": "https://www.studocu.com/nl-be"
+    },
+    {
+      "hreflang": "no-no",
+      "href": "https://www.studocu.com/no"
+    },
+    {
+      "hreflang": "es-pe",
+      "href": "https://www.studocu.com/pe"
+    },
+    {
+      "hreflang": "en-ph",
+      "href": "https://www.studocu.com/ph"
+    },
+    {
+      "hreflang": "pl-pl",
+      "href": "https://www.studocu.com/pl"
+    },
+    {
+      "hreflang": "pt-pt",
+      "href": "https://www.studocu.com/pt"
+    },
+    {
+      "hreflang": "pt-br",
+      "href": "https://www.studocu.com/pt-br"
+    },
+    {
+      "hreflang": "ro-ro",
+      "href": "https://www.studocu.com/ro"
+    },
+    {
+      "hreflang": "ru-ru",
+      "href": "https://www.studocu.com/ru"
+    },
+    {
+      "hreflang": "en-sg",
+      "href": "https://www.studocu.com/sg"
+    },
+    {
+      "hreflang": "sv-se",
+      "href": "https://www.studocu.com/sv"
+    },
+    {
+      "hreflang": "en-tw",
+      "href": "https://www.studocu.com/tw"
+    },
+    {
+      "hreflang": "uk-ua",
+      "href": "https://www.studocu.com/uk"
+    },
+    {
+      "hreflang": "en-vn",
+      "href": "https://www.studocu.vn/vn"
+    },
+    {
+      "hreflang": "x-default",
+      "href": "https://www.studocu.com"
+    }
   ],
-  "h1": ["Other AIs guess. Studocu knows."],
-  "h2": ["Powered by real notes from students in your course. Find the materials you need and create custom practice materials to ace your next exam.", "Millions of students helped, and counting", "Prepare your notes for studying", "Discover Our Mission", "Cookies give you a personalised experience"],
-  "h3": ["New study material added every day, from the world's most active student communities", "Learn how we're transforming education by connecting students with the best resources for success.", "We and our partners process data to provide:"],
-  "h4": [], "h5": [], "h6": [],
-  "ogTags": {"og:title": "Studocu Global — Study Notes for Students Worldwide", "og:description": "Share free summaries, lecture notes, exam prep and more!!", "og:url": "https://www.studocu.com", "og:type": "website", "og:image": "https://website-assets.studocu.com/img/facebook/default-studocu.png", "og:image:alt": "Studocu", "og:image:type": "image/png", "og:image:width": "1200", "og:image:height": "628", "og:locale": "en-us", "og:site_name": "Studocu"},
-  "twitterTags": {"twitter:card": "summary_large_image", "twitter:site": "@Studocu", "twitter:creator": "@Studocu"},
-  "schemaTypes": ["Corporation", "WebSite"],
+  "h1": [
+    "Other AIs guess. Studocu knows."
+  ],
+  "h2": [
+    "Powered by real notes from students in your course. Find the materials you need and create custom practice materials to ace your next exam.",
+    "Millions of students helped, and counting",
+    "Prepare your notes for studying",
+    "Discover Our Mission",
+    "Cookies give you a personalised experience"
+  ],
+  "h3": [
+    "New study material added every day, from the world's most active student communities",
+    "Learn how we're transforming education by connecting students with the best resources for success.",
+    "We and our partners process data to provide:"
+  ],
+  "h4": [],
+  "h5": [],
+  "h6": [],
+  "ogTags": {
+    "og:title": "Studocu Global \u2014 Study Notes for Students Worldwide",
+    "og:description": "Share free summaries, lecture notes, exam prep and more!!",
+    "og:url": "https://www.studocu.com",
+    "og:type": "website",
+    "og:image": "https://website-assets.studocu.com/img/facebook/default-studocu.png",
+    "og:image:alt": "Studocu",
+    "og:image:type": "image/png",
+    "og:image:width": "1200",
+    "og:image:height": "628",
+    "og:locale": "en-us",
+    "og:site_name": "Studocu"
+  },
+  "twitterTags": {
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@Studocu",
+    "twitter:creator": "@Studocu"
+  },
+  "schemaTypes": [
+    "Corporation",
+    "WebSite"
+  ],
   "mixedContent": false
 }
