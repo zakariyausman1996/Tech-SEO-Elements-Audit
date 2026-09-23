@@ -11,17 +11,24 @@ Daily snapshots of homepage SEO elements for Studocu and its main competitors, u
 - brainly.com
 
 ## Tracked elements (per homepage)
-- `<title>` tag
-- Meta description
-- H1 and H2 headings
-- Canonical URL
-- Meta robots directive (index/noindex, follow/nofollow)
-- Open Graph tags (og:title, og:description, og:image, og:type)
+- `<title>` tag, `html[lang]`
+- Meta description, meta robots
+- Canonical URL, rel=next/prev
+- Hreflang tags
+- H1–H6 headings
+- Open Graph tags (any `og:*`)
+- Twitter Card tags (any `twitter:*`)
 - Structured data / schema.org types (JSON-LD `@type` values present)
+- Mixed-content flag (https page referencing http:// resources)
 
-## Structure
-- `snapshots/<YYYY-MM-DD>/<domain>.json` — raw extracted elements for that day, one file per domain
-- `changelog/<domain>.md` — per-domain, change-only log. A dated entry is added ONLY when one or more tracked elements change since the last known-good snapshot. No entry = no change that day.
+## Two data sources — don't cross-compare them
+
+**`snapshots/` + `changelog/`** — automated daily fetch via `curl` (scripts/extract_seo.py), run by the "Daily competitor SEO element watch" cloud routine, cron 7:15 UTC daily. Fully automated, works even if your laptop is off. **Limitation:** several of these domains (studocu.com, chegg.com, quizlet.com, brainly.com) run bot/WAF protection (PerimeterX, Cloudflare challenge, etc.) that blocks plain `curl` requests on any given day, returning a captcha/block page instead of the real homepage. This is real, expected behavior — not a routine bug — and isn't something this project tries to bypass.
+
+**`browser-snapshots/` + `browser-changelog/`** — manual, on-demand fetch using Claude's built-in browser pane (a real Chromium browser), run by asking Claude to check the competitor pages. Gets past the bot protection that blocks curl, since it's indistinguishable from a normal visitor — all 6 domains return real content this way. **Limitation:** not automated/scheduled — only updates when explicitly requested, since it needs an active Claude Code session (no cloud/headless equivalent set up yet).
+
+Diff `snapshots/` days against each other, and `browser-snapshots/` days against each other — never compare across the two, since curl and a real browser can legitimately see different content (JS-rendered elements, geo-redirects, etc.) even with nothing actually wrong.
 
 ## Known issues
-Some competitor domains (quizlet.com, scribd.com) have intermittent or hard bot/WAF blocking that can prevent automated fetches on some days — this is expected and separate from the [Robots.txt-Competitors-Watch](https://github.com/zakariyausman1996/Robots.txt-Competitors-Watch) repo's own documented issue with the same domains.
+- quizlet.com, scribd.com, studocu.com, chegg.com, brainly.com: intermittent or hard bot/WAF blocking via `curl` (see above) — separate from the [Robots.txt-Competitors-Watch](https://github.com/zakariyausman1996/Robots.txt-Competitors-Watch) repo's own documented issue with the same domains.
+- Browser-based checks are on-demand only — ask Claude to run one, it isn't scheduled.
