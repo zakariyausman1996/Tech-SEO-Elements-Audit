@@ -1,6 +1,21 @@
 {
   "title": "Course Hero | Own the study hour",
+  "htmlLang": "en",
   "metaDescription": "Instant access to millions of Study Resources, Course Notes, Test Prep, 24/7 Homework Help, Tutors, and more. Learn, teach, and study with Course Hero. Get unstuck.",
+  "metaRobots": null,
+  "canonical": "https://www.coursehero.com",
+  "relNext": null,
+  "relPrev": null,
+  "hreflang": [
+    {
+      "hreflang": "en",
+      "href": "https://coursehero.com"
+    },
+    {
+      "hreflang": "es",
+      "href": "https://coursehero.com/es/"
+    }
+  ],
   "h1": [
     "Get unstuck in seconds"
   ],
@@ -11,8 +26,28 @@
     "Get Premium account",
     "Find study notes from other students for your class"
   ],
-  "canonical": "https://www.coursehero.com",
-  "metaRobots": null,
+  "h3": [
+    "See the best from the brightest",
+    "DIF Cognitive Level Analysis REF pp 21 22 Box 2 2 OBJ Identify strategies for",
+    "DIF Cognitive Level Analysis REF p 197 OBJ Relate complications associated with",
+    "DIF Cognitive Level Knowledge REF p 270 Table 11 5 OBJ Relate assessment",
+    "DIF Cognitive Level Analysis REF p 28 33 OBJ Discuss ethical and legal issues",
+    "Get help from expert tutors, 24/7",
+    "Company",
+    "Get Course Hero",
+    "Study Tools",
+    "Help"
+  ],
+  "h4": [
+    "Discover study documents recently uploaded by other students",
+    "NURSING MED SURG",
+    "NURSING MED SURG",
+    "NURSING MED SURG",
+    "NURSING MED SURG",
+    "Explore questions recently asked by students and solved by verified experts"
+  ],
+  "h5": [],
+  "h6": [],
   "ogTags": {
     "og:description": "Instant access to millions of Study Resources, Course Notes, Test Prep, 24/7 Homework Help, Tutors, and more. Learn, teach, and study with Course Hero. Get unstuck.",
     "og:image": "https://www.coursehero.com/assets/img/CH_Logo_FB.png",
@@ -20,9 +55,17 @@
     "og:type": "website",
     "og:url": "http://www.coursehero.com/"
   },
+  "twitterTags": {
+    "twitter:widgets:csp": "on",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Course Hero | Own the study hour",
+    "twitter:site": "@CourseHero",
+    "twitter:image": "https://www.coursehero.com/assets/img/CH_Logo_Twitter.png"
+  },
   "schemaTypes": [
     "Organization",
     "WebSite",
     "WebPage"
-  ]
+  ],
+  "mixedContent": false
 }

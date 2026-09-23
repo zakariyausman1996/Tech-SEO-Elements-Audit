@@ -1,12 +1,22 @@
 {
   "title": "Captcha Challenge\u2026",
+  "htmlLang": "en",
   "metaDescription": null,
+  "metaRobots": null,
+  "canonical": null,
+  "relNext": null,
+  "relPrev": null,
+  "hreflang": [],
   "h1": [
     "One more step\u2026"
   ],
   "h2": [],
-  "canonical": null,
-  "metaRobots": null,
+  "h3": [],
+  "h4": [],
+  "h5": [],
+  "h6": [],
   "ogTags": {},
-  "schemaTypes": []
+  "twitterTags": {},
+  "schemaTypes": [],
+  "mixedContent": false
 }
