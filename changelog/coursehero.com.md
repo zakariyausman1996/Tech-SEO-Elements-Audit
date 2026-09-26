@@ -2,6 +2,15 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-09-26
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-09-25 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "2 The nurse is caring for a patient whose condition has deteriorated and who is" → "The nurse is preparing to measure the thermodilution cardiac output TdCO in a"
+  - "Critical Care questions Ch 1 3 & 8 9 11.docx" → "DIF Cognitive Level Analysis REF Table 2 2 OBJ Describe common family needs and"
+  - "TOP Nursing Process Step Evaluation MSC NCLEX Safe and Effective Care" → "d low cardiac output secondary to increased intrathoracic pressure ANS D"
+  - "The nurse returns from the cardiac catheterization laboratory with a patient" → "a The catheter is not positioned correctly and should be removed b The catheter"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H4–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-09-25
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-09-24 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
