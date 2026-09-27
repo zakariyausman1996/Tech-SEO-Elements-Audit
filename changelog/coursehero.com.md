@@ -2,6 +2,14 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-09-27
+
+- **H3 headings changed**: 3 of 10 homepage H3 snippets differ from the 2026-09-26 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "The nurse is preparing to measure the thermodilution cardiac output TdCO in a" → "2 The nurse is caring for a patient whose condition has deteriorated and who is"
+  - "d low cardiac output secondary to increased intrathoracic pressure ANS D" → "Arterial blood gas values assessed on admission are pH 750 CO 2 28 mm Hg HCO 3"
+  - "a The catheter is not positioned correctly and should be removed b The catheter" → "The constant noise of a ventilator monitor alarms and infusion pumps predisposes"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H4–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-09-26
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-09-25 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
