@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-10-02
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-10-01 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "Modifying the work environment to reduce physical demands is one strategy to" → "NR586NP_Phase_6_Week_4_DanielleRobinson_Application_of_Epidemiology_Template.docx"
+  - "TOP Nursing Process Step Evaluation MSC NCLEX Safe and Effective Care" → "NUR_242_Medical_Surgical_Nursing_Study_Guide_150_Questions_2026-1.pdf"
+  - "DIF Cognitive Level Analysis REF pp 16 17 OBJ Describe stressors in the critical" → "Bible Study Project Part 1 - Observation and Interpretation Worksheet (2).docx"
+  - "DIF Cognitive Level Comprehension REF Table 11 4 OBJ Develop an individualized" → "First Midterm Practice .pdf"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-10-01 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "NURSING MED SURG" → "NR 586NP"
+  - "NURSING MED SURG" → "NUR 242"
+  - "NURSING MED SURG" → "THEO 104 D14"
+  - "NURSING MED SURG" → "CHEM 2510"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-10-01
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-09-30 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
