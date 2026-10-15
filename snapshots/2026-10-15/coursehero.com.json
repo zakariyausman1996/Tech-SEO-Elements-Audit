@@ -1,0 +1,71 @@
+{
+  "title": "Course Hero | Own the study hour",
+  "htmlLang": "en",
+  "metaDescription": "Instant access to millions of Study Resources, Course Notes, Test Prep, 24/7 Homework Help, Tutors, and more. Learn, teach, and study with Course Hero. Get unstuck.",
+  "metaRobots": "not present (defaults to index, follow)",
+  "canonical": "https://www.coursehero.com",
+  "relNext": null,
+  "relPrev": null,
+  "hreflang": [
+    {
+      "hreflang": "en",
+      "href": "https://coursehero.com"
+    },
+    {
+      "hreflang": "es",
+      "href": "https://coursehero.com/es/"
+    }
+  ],
+  "h1": [
+    "Get unstuck in seconds"
+  ],
+  "h2": [
+    "Find materials for your course at your school",
+    "Explore materials from top schools nearby*",
+    "Study anywhere with our mobile app",
+    "Get Premium account",
+    "Find study notes from other students for your class"
+  ],
+  "h3": [
+    "See the best from the brightest",
+    "Which defendant characteristic below has been found to influence a verdict a",
+    "Which of the following methods of researching jury behaviour is least likely to",
+    "Which of the following is one of the features of regressed child molesters a",
+    "PSY344H5 Final Exam Fall 2022 Page 12 of 15 2 Explain the characteristics of",
+    "Get help from expert tutors, 24/7",
+    "Company",
+    "Get Course Hero",
+    "Study Tools",
+    "Help"
+  ],
+  "h4": [
+    "Discover study documents recently uploaded by other students",
+    "PSY 344",
+    "PSY 344",
+    "PSY 344",
+    "PSY 344",
+    "Explore questions recently asked by students and solved by verified experts"
+  ],
+  "h5": [],
+  "h6": [],
+  "ogTags": {
+    "og:description": "Instant access to millions of Study Resources, Course Notes, Test Prep, 24/7 Homework Help, Tutors, and more. Learn, teach, and study with Course Hero. Get unstuck.",
+    "og:image": "https://www.coursehero.com/assets/img/CH_Logo_FB.png",
+    "og:title": "Course Hero | Own the study hour",
+    "og:type": "website",
+    "og:url": "http://www.coursehero.com/"
+  },
+  "twitterTags": {
+    "twitter:widgets:csp": "on",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Course Hero | Own the study hour",
+    "twitter:site": "@CourseHero",
+    "twitter:image": "https://www.coursehero.com/assets/img/CH_Logo_Twitter.png"
+  },
+  "schemaTypes": [
+    "Organization",
+    "WebSite",
+    "WebPage"
+  ],
+  "mixedContent": false
+}
