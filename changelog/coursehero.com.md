@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-10-16
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-10-15 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "Which defendant characteristic below has been found to influence a verdict a" → "Global_Law_Exam_Flowcharts_Steps.docx"
+  - "Which of the following methods of researching jury behaviour is least likely to" → "NU502 Unit 6 Assignment.docx"
+  - "Which of the following is one of the features of regressed child molesters a" → "ATI Capstone Med Surg 1.pdf"
+  - "PSY344H5 Final Exam Fall 2022 Page 12 of 15 2 Explain the characteristics of" → "Ihuman LN.docx"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-10-15 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "PSY 344" → "LAW 1028"
+  - "PSY 344" → "NU 502"
+  - "PSY 344" → "NURSING ATI"
+  - "PSY 344" → "NUR 560"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-10-15
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-10-14 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
