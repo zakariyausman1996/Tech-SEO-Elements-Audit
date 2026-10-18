@@ -1,0 +1,41 @@
+{
+  "title": "Studocu - Access Blocked",
+  "htmlLang": "en-us",
+  "metaDescription": "On Studocu you find all the lecture notes, summaries and study guides you need to pass your exams with better grades.",
+  "metaRobots": "noindex",
+  "canonical": null,
+  "relNext": null,
+  "relPrev": null,
+  "hreflang": [],
+  "h1": [
+    "Access Blocked"
+  ],
+  "h2": [
+    "We've detected suspicious activity from your connection and\n                    have temporarily restricted your access."
+  ],
+  "h3": [
+    "If you are using a VPN, please try disabling it and refresh the page."
+  ],
+  "h4": [],
+  "h5": [],
+  "h6": [],
+  "ogTags": {
+    "og:title": "Studocu - 404",
+    "og:description": "Share free summaries, lecture notes, exam prep and more!!",
+    "og:type": "website",
+    "og:site_name": "Studocu",
+    "og:image": "https://website-assets.studocu.com/img/facebook/default-studocu.png",
+    "og:image:width": "1200",
+    "og:image:height": "628",
+    "og:image:type": "image/png",
+    "og:image:alt": "Studocu Logo"
+  },
+  "twitterTags": {
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@Studocu"
+  },
+  "schemaTypes": [
+    "Organization"
+  ],
+  "mixedContent": false
+}
