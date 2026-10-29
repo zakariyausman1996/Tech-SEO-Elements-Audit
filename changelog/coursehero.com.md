@@ -2,6 +2,18 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-10-29
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-10-28 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "9.3 Conversation Starter Worksheet.pdf" → "Major ADRs Tremor nervousness tachycardia palpitations hypokalemia hyperglycemia"
+  - "9626 323 PM 93 Conversation Starter Worksheet AMSL 2010E Fall 2026 62785" → "Who should not receive it or needs extreme caution o Uncontrolled HTN severe CAD"
+  - "PM 93 Conversation Starter Worksheet AMSL 2010E Fall 2026 62785" → "Step 1 Is this chronic HTN or acute severe elevation Chronic HTN Clonidine is"
+  - "Observations of aggression and violence among a youths parents peers and" → "Step 2 Is the patient already on clonidine YES Assess adherence Never stop"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-10-28 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "AMSL 2010E" → "NUA 5650" (×3)
+  - "PSY 344" → "NUA 5650"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-10-28
 
 - **H3 headings changed**: 5 of 10 homepage H3 snippets differ from the 2026-10-27 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
