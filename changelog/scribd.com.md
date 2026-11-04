@@ -2,6 +2,11 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-04
+
+- **H2 changed**: the first captured H2 entry from the 2026-11-02 snapshot, "Explore, learn, apply.", no longer appears among the (10-item-capped) homepage H2 headings — every remaining entry shifted up one position, and a new H2, "Get our free apps", now appears at the end
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H3–H6, hreflang, Open Graph tags, Twitter tags, schema.org types, mixed content) were unchanged.
+
 ## 2026-10-22
 
 - **H1 changed**: "Connect the docs. Make this semester a success." → "Real knowledge, uploaded by real people." (rotating homepage hero headline — reverts to the 2026-10-17 value)
