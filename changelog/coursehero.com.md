@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-05
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-04 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "E Diff 3 Type MC Page Ref 144 155 Skill Applied Objective 63 Explain how" → "Adrenergic Agonists - Alpha 2 Agonists_Central.docx"
+  - "When real GDP increases what could not have happened A rising prices B" → "Major ADRs Tremor nervousness tachycardia palpitations hypokalemia hyperglycemia"
+  - "Diff 3 Type TF Page Ref 132 136 Skill Applied Objective 61 Differentiate nominal" → "Transdermal patch o 0103 mg24 h patch changed weekly ADHD ER o Start 01 mg HS"
+  - "35 When a high school teacher takes a leave of absence to home school his" → "What receptors does it hit o α1 vasoconstriction β1 heart β2 lungs α2 CNS"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-11-04 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "ECO 1010" → "NUA 5650"
+  - "ECO 1010" → "NUA 5650"
+  - "ECO 1010" → "NUA 5650"
+  - "ECO 1010" → "NUA 5650"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-04
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-02 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
