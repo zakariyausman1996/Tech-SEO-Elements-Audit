@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-12
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-11 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "A researcher begins with the assumption that stress can be measured and that" → "Milestone 2.docx"
+  - "A researcher is studying confidence but recognizes that it cannot be directly" → "03_dns_cache_poisoning.md"
+  - "After reviewing previous research and qualitative findings a researcher creates" → "MBazile - 5 - 1 Power BI Executive Summary.docx"
+  - "Which question most clearly reflects the explanation level of research rather" → "FNSACC524 Assessment Sarah Bege - resubmission x2.docx"
+- **H4 headings changed**: 4 of 4 homepage H4 snippets differ from the 2026-11-11 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "NSE 212" → "MBA 699"
+  - "NSE 212" → "CS-GY 6823"
+  - "NSE 212" → "MBA 620"
+  - "NSE 212" → "FNSACC524 524"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-11
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-10 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
