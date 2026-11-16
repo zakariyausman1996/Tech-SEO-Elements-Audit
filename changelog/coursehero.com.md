@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-16
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-15 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "111 Selfgrandiosity need for admiration and lack of empathy Narcissistic PD 112" → "Question 12 1 1 pts Patient Siple Profile Question 4 of 4 102526 703 PM Unit 11"
+  - "49 Selfcare strategies for the ARNP in preparing for the certification exam" → "Burping spitting Chest hurting sore throat Coughing yellow greenish mucus"
+  - "30 Neurochemical or neurophysiological changes in the body that results from the" → "PN3001_Practice_Questions_07_Community_and_Communicable_Disease.docx"
+  - "Stage 6 Intimacy vs isolation is associated with what age and virtue 2139 years" → "A nurse suspects a child may be unsafe during a community visit What is the best"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-11-15 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "BIO 123" → "AMSL 2010E"
+  - "BIO 123" → "AMSL 2010E"
+  - "BIO 123" → "PN 3001"
+  - "BIO 123" → "PN 3001"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-15
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-14 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
