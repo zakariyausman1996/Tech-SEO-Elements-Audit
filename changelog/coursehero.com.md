@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-17
+
+- **H3 headings changed**: 4 of 9 homepage H3 snippets differ from the 2026-11-16 snapshot (these are rotating "featured document"/quiz-question preview blurbs, not a static site element):
+  - "Question 12 1 1 pts Patient Siple Profile Question 4 of 4 102526 703 PM Unit 11" → "Complexity Easy Ahead Adaptive Immunity Subject Chapter 2 Title Immunity 16"
+  - "Burping spitting Chest hurting sore throat Coughing yellow greenish mucus" → "Complexity Easy Ahead Basic Cell Function and Structure Subject Chapter 1 Title"
+  - "PN3001_Practice_Questions_07_Community_and_Communicable_Disease.docx" → "An example of a test that is used for cancer screening asymptomatic test is A"
+  - "A nurse suspects a child may be unsafe during a community visit What is the best" → "A patient who has seasonal allergic rhinitis is having a flare up and is"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-11-16 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "AMSL 2010E" → "NGR 5141"
+  - "AMSL 2010E" → "NGR 5141"
+  - "PN 3001" → "NGR 5141"
+  - "PN 3001" → "NGR 5141"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-16
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-15 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
