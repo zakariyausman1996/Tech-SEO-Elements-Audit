@@ -2,6 +2,20 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-19
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-18 snapshot (these are rotating "featured document"/quiz-question preview blurbs, not a static site element):
+  - "PM Unit 11 Comprehension AMSL 2010E Fall 2026 62785" → "208 The need for NPs to practice to their full extent of their education and"
+  - "PM Unit 11 Comprehension AMSL 2010E Fall 2026 62785" → "What is Russells sign scarring or callouses on the dorsal surface of the hand"
+  - "Burping spitting Chest hurting sore throat Coughing yellow greenish mucus" → "In order to qualify for ANCC BC testing you must have a minimal amount of"
+  - "A nurse suspects a child may be unsafe during a community visit What is the best" → "According to HIPPA which of the following must the NP share their NPI with Check"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-11-18 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "AMSL 2010E" → "BIO 123"
+  - "AMSL 2010E" → "BIO 123"
+  - "AMSL 2010E" → "BIO 123"
+  - "PN 3001" → "BIO 123"
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-17
 
 - **H3 headings changed**: 4 of 9 homepage H3 snippets differ from the 2026-11-16 snapshot (these are rotating "featured document"/quiz-question preview blurbs, not a static site element):
