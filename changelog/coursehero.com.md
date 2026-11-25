@@ -2,6 +2,17 @@
 
 Entries are only added when a tracked SEO element (title, meta description, H1/H2, canonical, meta robots, Open Graph tags, or schema.org types) actually changes. No entry = no change that day.
 
+## 2026-11-25
+
+- **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-24 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
+  - "Instructions for applying a topical antibiotic or antiviral ointment include A" → "Fortis_Capstone_Exam_3_50_Questions (1).pdf"
+  - "First line therapy for a patient with acute otitis externa swimmers ear and an" → "Fortis style Capstone Exam 3 Original practice questions Page 9 48 A client with"
+  - "Successful ART in an HIV positive patient is determined by A HIV virus" → "Which response demonstrates the therapeutic communication technique of offering"
+  - "To prevent further development of antibacterial resistance it is recommended" → "A hospice clients family reports decreased appetite and increased sleeping What"
+- **H4 headings changed**: 4 of 6 homepage H4 snippets differ from the 2026-11-24 snapshot (these are rotating "course code" labels tied to the same featured-document carousel, not a static site element):
+  - "NURS 5334" → "FST 226" (×4)
+- All other tracked fields (title, meta description, canonical, meta robots, H1, H2, H5–H6, Open Graph tags, Twitter tags, schema.org types, hreflang, mixed content) were unchanged.
+
 ## 2026-11-24
 
 - **H3 headings changed**: 4 of 10 homepage H3 snippets differ from the 2026-11-23 snapshot (these are rotating "featured document" preview blurbs, not a static site element):
